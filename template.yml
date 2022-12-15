@@ -4,7 +4,7 @@ Description: AWS Sam Template
 
 Globals:
   Function:
-    Timeout: 30
+    Timeout: 31
 
 Parameters:
   Environment:
